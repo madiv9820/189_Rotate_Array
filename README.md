@@ -2,7 +2,7 @@
 
 __Type:__ Medium <br>
 __Topics:__ Array, Math, Two Pointers <br>
-__Companies:__ Amazon, Google, Microsoft, Bloomberg, Accenture, Meta, Apple, Infosys, tcs, Adobe, Uber, Yahoo, Zoho, Walmart Labs, Goldman Sachs, TikTok, Oracle, Flipkart, Cisco
+__Companies:__ Amazon, Google, Microsoft, Bloomberg, Accenture, Meta, Apple, Infosys, tcs, Adobe, Uber, Yahoo, Zoho, Walmart Labs, Goldman Sachs, TikTok, Oracle, Flipkart, Cisco <br>
 __Leetcode Link:__ [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/)
 <hr>
 
